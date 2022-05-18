@@ -1,2 +1,3 @@
 # Unsupervised-Learning-Challenge
-Unsupervised learning assignment
+
+This repository contains the unsupervised learning homework for the data visualization course.
